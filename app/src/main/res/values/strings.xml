@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="task_title">Hello</string>
+    <string name="task_delete">Done</string>
+</resources>
